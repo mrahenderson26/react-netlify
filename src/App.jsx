@@ -10,6 +10,7 @@ function App() {
 
       <div className='container'>
         <h1>Publicación web React en Netlify con github - actualizado</h1>
+        <p>Hemos aplicado una actualización exitosa!</p>
       </div>
 
     </>
