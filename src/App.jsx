@@ -9,7 +9,7 @@ function App() {
       <></>
 
       <div className='container'>
-        <h1>Publicación web React en Netlify con github</h1>
+        <h1>Publicación web React en Netlify con github - actualizado</h1>
       </div>
 
     </>
