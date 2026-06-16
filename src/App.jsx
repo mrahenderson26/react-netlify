@@ -10,11 +10,14 @@ function App() {
 
       <div className='container'>
         <h1>Publicación web React en Netlify con github - actualizado</h1>
-        <p>Hemos aplicado una actualización exitosa!</p>
+        <h3>Hemos aplicado una actualización exitosa!</h3>
+
+        <h3>Este párrafo se ha hecho con un branch en github</h3>
+
       </div>
 
     </>
-    
+
   )
 }
 
